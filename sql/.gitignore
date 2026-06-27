@@ -1,0 +1,12 @@
+# Ignore environment files
+.env
+
+# Ignore database files
+*.db
+
+# Ignore Python caches
+__pycache__/
+
+# Ignore build artifacts and dependency folders
+node_modules/
+dist/
